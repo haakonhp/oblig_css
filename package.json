@@ -1,0 +1,9 @@
+{
+  "name": "oblig_css",
+  "version": "1.0.0",
+    "description": "Oblig i CSS",
+    "main": "index.html",
+    "authur": "Håkon Halland Pedersen",
+  "dependencies": {
+  }
+}
