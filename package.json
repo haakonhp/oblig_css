@@ -4,6 +4,10 @@
     "description": "Oblig i CSS",
     "main": "index.html",
     "authur": "Håkon Halland Pedersen",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haakonhp/oblig_css"
+  },
   "dependencies": {
   }
 }
